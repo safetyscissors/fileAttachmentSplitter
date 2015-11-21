@@ -1,0 +1,17 @@
+{
+  "name": "fileAttachmentSplit",
+  "version": "1.0.0",
+  "description": "splits file attachments",
+  "main": "server.js",
+  "dependencies": {
+    "async": "^1.5.0",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
